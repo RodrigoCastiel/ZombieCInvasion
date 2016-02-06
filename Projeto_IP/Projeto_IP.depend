@@ -1,0 +1,708 @@
+# depslib dependency file v1.0
+1379511435 source:c:\users\rcrs2\downloads\projeto_ip\main.cpp
+	<allegro.h>
+	"Presentation.h"
+	"Global.h"
+	"Game.h"
+
+1379467303 c:\users\rcrs2\downloads\projeto_ip\presentation.h
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"GraphicsAuxiliar.h"
+	"Global.h"
+	"Field.h"
+
+1379463426 c:\users\rcrs2\downloads\projeto_ip\graphicsauxiliar.h
+	<allegro.h>
+	<stdio.h>
+
+1378486641 c:\users\rcrs2\downloads\projeto_ip\field.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+	"Enemy.h"
+	"Wave.h"
+	<math.h>
+
+1379439354 c:\users\rcrs2\downloads\projeto_ip\enemy.h
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"Coordinate.h"
+
+1377961015 c:\users\rcrs2\downloads\projeto_ip\coordinate.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1378578266 c:\users\rcrs2\downloads\projeto_ip\wave.h
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"Enemy.h"
+	"GraphicsAuxiliar.h"
+
+1377963772 c:\users\rcrs2\downloads\projeto_ip\global.h
+	<allegro.h>
+
+1379450145 c:\users\rcrs2\downloads\projeto_ip\game.h
+	"GraphicsAuxiliar.h"
+	"Presentation.h"
+	"Player.h"
+	"Global.h"
+	"Field.h"
+
+1377961021 source:c:\users\rcrs2\downloads\projeto_ip\coordinate.cpp
+	"Coordinate.h"
+
+1379439384 source:c:\users\rcrs2\downloads\projeto_ip\enemy.cpp
+	"Enemy.h"
+
+1379443759 source:c:\users\rcrs2\downloads\projeto_ip\field.cpp
+	"Field.h"
+
+1379464603 source:c:\users\rcrs2\downloads\projeto_ip\graphicsauxiliar.cpp
+	"GraphicsAuxiliar.h"
+
+1379506690 source:c:\users\rcrs2\downloads\projeto_ip\player.cpp
+	"Player.h"
+
+1379463942 c:\users\rcrs2\downloads\projeto_ip\player.h
+	<allegro.h>
+	<stdio.h>
+	"GraphicsAuxiliar.h"
+	"Tower.h"
+	"Bullet.h"
+	"Enemy.h"
+	"Global.h"
+
+1379433439 c:\users\rcrs2\downloads\projeto_ip\tower.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+	"Global.h"
+	"Wave.h"
+	"GraphicsAuxiliar.h"
+	"Bullet.h"
+
+1379505925 source:c:\users\rcrs2\downloads\projeto_ip\tower.cpp
+	"Tower.h"
+
+1379465092 source:c:\users\rcrs2\downloads\projeto_ip\wave.cpp
+	"Wave.h"
+
+1379512616 source:c:\users\rcrs2\downloads\projeto_ip\game.cpp
+	"Game.h"
+
+1377961021 source:c:\users\rcrs2\desktop\projeto_ip\coordinate.cpp
+	"Coordinate.h"
+
+1377961015 c:\users\rcrs2\desktop\projeto_ip\coordinate.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1377968934 source:c:\users\rcrs2\desktop\projeto_ip\enemy.cpp
+	"Enemy.h"
+
+1377966355 c:\users\rcrs2\desktop\projeto_ip\enemy.h
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"Coordinate.h"
+
+1377967367 source:c:\users\rcrs2\desktop\projeto_ip\field.cpp
+	"Field.h"
+
+1377967261 c:\users\rcrs2\desktop\projeto_ip\field.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+	"Enemy.h"
+	"Wave.h"
+
+1377988531 source:c:\users\rcrs2\desktop\projeto_ip\game.cpp
+	"Game.h"
+
+1377988317 c:\users\rcrs2\desktop\projeto_ip\game.h
+	"GraphicsAuxiliar.h"
+	"Player.h"
+	"Global.h"
+	"Field.h"
+
+1377201388 c:\users\rcrs2\desktop\projeto_ip\graphicsauxiliar.h
+	<allegro.h>
+	<stdio.h>
+
+1377201456 source:c:\users\rcrs2\desktop\projeto_ip\graphicsauxiliar.cpp
+	"GraphicsAuxiliar.h"
+
+1377989078 source:c:\users\rcrs2\desktop\projeto_ip\player.cpp
+	"Player.h"
+
+1377988337 c:\users\rcrs2\desktop\projeto_ip\player.h
+	<allegro.h>
+	<stdio.h>
+	"Tower.h"
+	"Enemy.h"
+	"Global.h"
+
+1377962946 source:c:\users\rcrs2\desktop\projeto_ip\presentation.cpp
+	"Presentation.h"
+
+1377958940 c:\users\rcrs2\desktop\projeto_ip\presentation.h
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"GraphicsAuxiliar.h"
+	"Global.h"
+	"Field.h"
+
+1377966123 source:c:\users\rcrs2\desktop\projeto_ip\main.cpp
+	<allegro.h>
+	"Presentation.h"
+	"Global.h"
+	"Game.h"
+
+1377963772 c:\users\rcrs2\desktop\projeto_ip\global.h
+	<allegro.h>
+
+1377968245 c:\users\rcrs2\desktop\projeto_ip\wave.h
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"Enemy.h"
+
+1377972405 source:c:\users\rcrs2\desktop\projeto_ip\wave.cpp
+	"Wave.h"
+
+1377963801 source:c:\users\rcrs2\desktop\projeto_ip\global.cpp
+	"Global.h"
+
+1377374218 c:\users\rcrs2\desktop\projeto_ip\tower.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+
+1377374240 source:c:\users\rcrs2\desktop\projeto_ip\tower.cpp
+	"Tower.h"
+
+1377963801 source:c:\users\rcrs2\downloads\projeto_ip\global.cpp
+	"Global.h"
+
+1379511357 source:c:\users\rcrs2\downloads\projeto_ip\presentation.cpp
+	"Presentation.h"
+
+1379506669 source:c:\users\rcrs2\downloads\projeto_ip\bullet.cpp
+	"Bullet.h"
+
+1379506606 c:\users\rcrs2\downloads\projeto_ip\bullet.h
+	<allegro.h>
+	<math.h>
+	<stdio.h>
+	"GraphicsAuxiliar.h"
+	"Wave.h"
+
+1379506669 source:c:\users\artur\meus documentos\desktop\rodrigo - projetos\projeto_ip\bullet.cpp
+	"Bullet.h"
+
+1379506606 c:\users\artur\meus documentos\desktop\rodrigo - projetos\projeto_ip\bullet.h
+	<allegro.h>
+	<math.h>
+	<stdio.h>
+	"GraphicsAuxiliar.h"
+	"Wave.h"
+
+1379463426 c:\users\artur\meus documentos\desktop\rodrigo - projetos\projeto_ip\graphicsauxiliar.h
+	<allegro.h>
+	<stdio.h>
+
+1378578266 c:\users\artur\meus documentos\desktop\rodrigo - projetos\projeto_ip\wave.h
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"Enemy.h"
+	"GraphicsAuxiliar.h"
+
+1379439354 c:\users\artur\meus documentos\desktop\rodrigo - projetos\projeto_ip\enemy.h
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"Coordinate.h"
+
+1377961015 c:\users\artur\meus documentos\desktop\rodrigo - projetos\projeto_ip\coordinate.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1377961021 source:c:\users\artur\meus documentos\desktop\rodrigo - projetos\projeto_ip\coordinate.cpp
+	"Coordinate.h"
+
+1379779676 source:c:\users\artur\meus documentos\desktop\rodrigo - projetos\projeto_ip\enemy.cpp
+	"Enemy.h"
+
+1379780031 source:c:\users\artur\meus documentos\desktop\rodrigo - projetos\projeto_ip\field.cpp
+	"Field.h"
+
+1378486641 c:\users\artur\meus documentos\desktop\rodrigo - projetos\projeto_ip\field.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+	"Enemy.h"
+	"Wave.h"
+	<math.h>
+
+1379512616 source:c:\users\artur\meus documentos\desktop\rodrigo - projetos\projeto_ip\game.cpp
+	"Game.h"
+
+1379450145 c:\users\artur\meus documentos\desktop\rodrigo - projetos\projeto_ip\game.h
+	"GraphicsAuxiliar.h"
+	"Presentation.h"
+	"Player.h"
+	"Global.h"
+	"Field.h"
+
+1379467303 c:\users\artur\meus documentos\desktop\rodrigo - projetos\projeto_ip\presentation.h
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"GraphicsAuxiliar.h"
+	"Global.h"
+	"Field.h"
+
+1377963772 c:\users\artur\meus documentos\desktop\rodrigo - projetos\projeto_ip\global.h
+	<allegro.h>
+
+1379463942 c:\users\artur\meus documentos\desktop\rodrigo - projetos\projeto_ip\player.h
+	<allegro.h>
+	<stdio.h>
+	"GraphicsAuxiliar.h"
+	"Tower.h"
+	"Bullet.h"
+	"Enemy.h"
+	"Global.h"
+
+1379433439 c:\users\artur\meus documentos\desktop\rodrigo - projetos\projeto_ip\tower.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+	"Global.h"
+	"Wave.h"
+	"GraphicsAuxiliar.h"
+	"Bullet.h"
+
+1377963801 source:c:\users\artur\meus documentos\desktop\rodrigo - projetos\projeto_ip\global.cpp
+	"Global.h"
+
+1379464603 source:c:\users\artur\meus documentos\desktop\rodrigo - projetos\projeto_ip\graphicsauxiliar.cpp
+	"GraphicsAuxiliar.h"
+
+1379506690 source:c:\users\artur\meus documentos\desktop\rodrigo - projetos\projeto_ip\player.cpp
+	"Player.h"
+
+1379513867 source:c:\users\artur\meus documentos\desktop\rodrigo - projetos\projeto_ip\presentation.cpp
+	"Presentation.h"
+
+1379505925 source:c:\users\artur\meus documentos\desktop\rodrigo - projetos\projeto_ip\tower.cpp
+	"Tower.h"
+
+1379465092 source:c:\users\artur\meus documentos\desktop\rodrigo - projetos\projeto_ip\wave.cpp
+	"Wave.h"
+
+1379511435 source:c:\users\artur\meus documentos\desktop\rodrigo - projetos\projeto_ip\main.cpp
+	<allegro.h>
+	"Presentation.h"
+	"Global.h"
+	"Game.h"
+
+1379506669 source:c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\bullet.cpp
+	"Bullet.h"
+
+1379506606 c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\bullet.h
+	<allegro.h>
+	<math.h>
+	<stdio.h>
+	"GraphicsAuxiliar.h"
+	"Wave.h"
+
+1379463426 c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\graphicsauxiliar.h
+	<allegro.h>
+	<stdio.h>
+
+1378578266 c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\wave.h
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"Enemy.h"
+	"GraphicsAuxiliar.h"
+
+1379800778 c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\enemy.h
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"Coordinate.h"
+
+1377961015 c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\coordinate.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1377961021 source:c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\coordinate.cpp
+	"Coordinate.h"
+
+1379801831 source:c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\enemy.cpp
+	"Enemy.h"
+
+1379803050 source:c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\field.cpp
+	"Field.h"
+
+1379800763 c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\field.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+	"Enemy.h"
+	"Wave.h"
+	<math.h>
+
+1379811997 source:c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\game.cpp
+	"Game.h"
+
+1379811468 c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\game.h
+	"GraphicsAuxiliar.h"
+	"Presentation.h"
+	"Player.h"
+	"Global.h"
+	"Field.h"
+
+1379467303 c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\presentation.h
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"GraphicsAuxiliar.h"
+	"Global.h"
+	"Field.h"
+
+1377963772 c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\global.h
+	<allegro.h>
+
+1379811611 c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\player.h
+	<allegro.h>
+	<stdio.h>
+	"GraphicsAuxiliar.h"
+	"Tower.h"
+	"Bullet.h"
+	"Effect.h"
+	"Enemy.h"
+	"Global.h"
+
+1379433439 c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\tower.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+	"Global.h"
+	"Wave.h"
+	"GraphicsAuxiliar.h"
+	"Bullet.h"
+
+1377963801 source:c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\global.cpp
+	"Global.h"
+
+1379464603 source:c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\graphicsauxiliar.cpp
+	"GraphicsAuxiliar.h"
+
+1379809327 source:c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\player.cpp
+	"Player.h"
+
+1379809549 source:c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\tower.cpp
+	"Tower.h"
+
+1379465092 source:c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\wave.cpp
+	"Wave.h"
+
+1379511435 source:c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\main.cpp
+	<allegro.h>
+	"Presentation.h"
+	"Global.h"
+	"Game.h"
+
+1379780695 source:c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\presentation.cpp
+	"Presentation.h"
+
+1379809690 source:c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\effect.cpp
+	"Effect.h"
+
+1379809567 c:\users\artur castiel\desktop\zombiecinvasion\projeto_ip\effect.h
+	<allegro.h>
+	<stdlib.h>
+	<time.h>
+
+1379506669 source:c:\users\helena\downloads\zombiecinvasion\projeto_ip\bullet.cpp
+	"Bullet.h"
+
+1379506606 c:\users\helena\downloads\zombiecinvasion\projeto_ip\bullet.h
+	<allegro.h>
+	<math.h>
+	<stdio.h>
+	"GraphicsAuxiliar.h"
+	"Wave.h"
+
+1379463426 c:\users\helena\downloads\zombiecinvasion\projeto_ip\graphicsauxiliar.h
+	<allegro.h>
+	<stdio.h>
+
+1378578266 c:\users\helena\downloads\zombiecinvasion\projeto_ip\wave.h
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"Enemy.h"
+	"GraphicsAuxiliar.h"
+
+1379800778 c:\users\helena\downloads\zombiecinvasion\projeto_ip\enemy.h
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"Coordinate.h"
+
+1377961015 c:\users\helena\downloads\zombiecinvasion\projeto_ip\coordinate.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1377961021 source:c:\users\helena\downloads\zombiecinvasion\projeto_ip\coordinate.cpp
+	"Coordinate.h"
+
+1379809690 source:c:\users\helena\downloads\zombiecinvasion\projeto_ip\effect.cpp
+	"Effect.h"
+
+1379809567 c:\users\helena\downloads\zombiecinvasion\projeto_ip\effect.h
+	<allegro.h>
+	<stdlib.h>
+	<time.h>
+
+1379801831 source:c:\users\helena\downloads\zombiecinvasion\projeto_ip\enemy.cpp
+	"Enemy.h"
+
+1379803050 source:c:\users\helena\downloads\zombiecinvasion\projeto_ip\field.cpp
+	"Field.h"
+
+1379800763 c:\users\helena\downloads\zombiecinvasion\projeto_ip\field.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+	"Enemy.h"
+	"Wave.h"
+	<math.h>
+
+1377963801 source:c:\users\helena\downloads\zombiecinvasion\projeto_ip\global.cpp
+	"Global.h"
+
+1377963772 c:\users\helena\downloads\zombiecinvasion\projeto_ip\global.h
+	<allegro.h>
+
+1379464603 source:c:\users\helena\downloads\zombiecinvasion\projeto_ip\graphicsauxiliar.cpp
+	"GraphicsAuxiliar.h"
+
+1379812251 source:c:\users\helena\downloads\zombiecinvasion\projeto_ip\player.cpp
+	"Player.h"
+
+1379811611 c:\users\helena\downloads\zombiecinvasion\projeto_ip\player.h
+	<allegro.h>
+	<stdio.h>
+	"GraphicsAuxiliar.h"
+	"Tower.h"
+	"Bullet.h"
+	"Effect.h"
+	"Enemy.h"
+	"Global.h"
+
+1379433439 c:\users\helena\downloads\zombiecinvasion\projeto_ip\tower.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+	"Global.h"
+	"Wave.h"
+	"GraphicsAuxiliar.h"
+	"Bullet.h"
+
+1379780695 source:c:\users\helena\downloads\zombiecinvasion\projeto_ip\presentation.cpp
+	"Presentation.h"
+
+1379467303 c:\users\helena\downloads\zombiecinvasion\projeto_ip\presentation.h
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"GraphicsAuxiliar.h"
+	"Global.h"
+	"Field.h"
+
+1379809549 source:c:\users\helena\downloads\zombiecinvasion\projeto_ip\tower.cpp
+	"Tower.h"
+
+1379465092 source:c:\users\helena\downloads\zombiecinvasion\projeto_ip\wave.cpp
+	"Wave.h"
+
+1379511435 source:c:\users\helena\downloads\zombiecinvasion\projeto_ip\main.cpp
+	<allegro.h>
+	"Presentation.h"
+	"Global.h"
+	"Game.h"
+
+1379811468 c:\users\helena\downloads\zombiecinvasion\projeto_ip\game.h
+	"GraphicsAuxiliar.h"
+	"Presentation.h"
+	"Player.h"
+	"Global.h"
+	"Field.h"
+
+1379506669 source:c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\bullet.cpp
+	"Bullet.h"
+
+1379506606 c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\bullet.h
+	<allegro.h>
+	<math.h>
+	<stdio.h>
+	"GraphicsAuxiliar.h"
+	"Wave.h"
+
+1379463426 c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\graphicsauxiliar.h
+	<allegro.h>
+	<stdio.h>
+
+1378578266 c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\wave.h
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"Enemy.h"
+	"GraphicsAuxiliar.h"
+
+1379800778 c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\enemy.h
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"Coordinate.h"
+
+1377961015 c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\coordinate.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1377961021 source:c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\coordinate.cpp
+	"Coordinate.h"
+
+1395554305 source:c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\effect.cpp
+	"Effect.h"
+
+1379809567 c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\effect.h
+	<allegro.h>
+	<stdlib.h>
+	<time.h>
+
+1395556426 source:c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\enemy.cpp
+	"Enemy.h"
+
+1395558946 source:c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\field.cpp
+	"Field.h"
+
+1395558954 c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\field.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+	"Enemy.h"
+	"Wave.h"
+	<math.h>
+
+1395557933 source:c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\game.cpp
+	"Game.h"
+
+1395558896 c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\game.h
+	"GraphicsAuxiliar.h"
+	"Presentation.h"
+	"Player.h"
+	"Global.h"
+	"Field.h"
+
+1379467303 c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\presentation.h
+	<allegro.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"GraphicsAuxiliar.h"
+	"Global.h"
+	"Field.h"
+
+1377963772 c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\global.h
+	<allegro.h>
+
+1395558907 c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\player.h
+	<allegro.h>
+	<stdio.h>
+	"GraphicsAuxiliar.h"
+	"Tower.h"
+	"Bullet.h"
+	"Effect.h"
+	"Enemy.h"
+	"Global.h"
+
+1379433439 c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\tower.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+	"Global.h"
+	"Wave.h"
+	"GraphicsAuxiliar.h"
+	"Bullet.h"
+
+1377963801 source:c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\global.cpp
+	"Global.h"
+
+1379464603 source:c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\graphicsauxiliar.cpp
+	"GraphicsAuxiliar.h"
+
+1379812251 source:c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\player.cpp
+	"Player.h"
+
+1395555475 source:c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\presentation.cpp
+	"Presentation.h"
+
+1379809549 source:c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\tower.cpp
+	"Tower.h"
+
+1395557534 source:c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\wave.cpp
+	"Wave.h"
+
+1395554460 source:c:\users\helena\desktop\rodrigo castiel\projects\c\game\allegro\zombiecinvasion\projeto_ip\main.cpp
+	<allegro.h>
+	"Presentation.h"
+	"Global.h"
+	"Game.h"
+
